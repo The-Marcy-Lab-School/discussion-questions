@@ -1,9 +1,10 @@
-# Discussion Question - Intro to the Web and Web Development
+# Group Discussion Question - Intro to the Web and Web Development
 
 ## Directions
-- Tackle each discussion questions below one at a time.
-- For each question, every member of the group should verbally share their answer/explanation. Try not to Google or look up the answers yet.
-- Then, verbally discuss the question as a whole group. Optionally, you can Google or look up the answer to confirm or adjust your understanding.
+- In an in-person class, have one person hook up their laptop to a larger monitor. In a remote class, have one person share their screen.
+- Tackle each discussion questions below one at a time as a group.
+- First, try to discuss and answer the questions using just your collective knowledge. Then reference your notes as needed.
+- Lastly, you can Google or look up the answers if desired.
 - Take 30 minutes total to do this activity. It's ok if you were not able to get to every question.
 
 
