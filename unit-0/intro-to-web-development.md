@@ -1,7 +1,7 @@
 # Group Discussion Question - Intro to the Web and Web Development
 
 ## Directions
-- In an in-person class, have one person hook up their laptop to a larger monitor. In a remote class, have one person share their screen.
+- In an in-person class, have a group member hook up their laptop to a larger monitor. In a remote class, have a group member share their screen.
 - Tackle each discussion questions below one at a time as a group.
 - First, try to discuss and answer the questions using just your collective knowledge. Then reference your notes as needed.
 - Lastly, you can Google or look up the answers if desired.
