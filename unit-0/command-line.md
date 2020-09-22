@@ -1,11 +1,12 @@
-# Discussion Question - Command Line
+# Group Discussion Question - Command Line
 
 ## Directions
+In an in-person class, have a group member hook up their laptop to a larger monitor. In a remote class, have each group member take turns sharing their screen.
 
 1. Use [Repl.it](https://repl.it/languages/bash) to do the following four practice problems. When you open Repl.it, notice the command line on the right and the directories and files on the left.
 2. As a group, do one practice at a time. For each, only one person types and screen shares, while the other group members should coach them through the problem.
 3. Rate yourself on a scale of 1-5 on how comfortable you feel using the command line (1 for not comfortable and 5 for very comfortable). The person who scored lowest should start first and share their screen.
-4. Rotate accordingly at the end of each practice to person who scored themselves next lowest.
+4. Rotate accordingly at the end of each practice to the person who scored themselves next lowest.
 
 Practice 1 - recreate the following directory and file structure using the Command Line:
 ```
