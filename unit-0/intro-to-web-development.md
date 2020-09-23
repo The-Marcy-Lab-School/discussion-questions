@@ -2,7 +2,7 @@
 
 ## Directions
 - In an in-person class, have a group member hook up their laptop to a larger monitor. In a remote class, have a group member share their screen.
-- Tackle each discussion questions below one at a time as a group.
+- As a group, tackle each discussion question below one at a time.
 - First, try to discuss and answer the questions using just your collective knowledge. Then reference your notes as needed.
 - Lastly, you can Google or look up the answers if desired.
 - Take 30 minutes total to do this activity. It's ok if you were not able to get to every question.
