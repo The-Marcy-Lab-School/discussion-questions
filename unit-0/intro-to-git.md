@@ -1,27 +1,17 @@
-# Discussion Question - Intro to Git
+# Discussion Question - Git
 
 ## Directions
 - In an in-person class, have a group member hook up their laptop to a larger monitor. In a remote class, have a group member share their screen.
-- As a group, tackle each discussion question below one at a time.
-- First, try to discuss and answer the questions using just your collective knowledge. Then reference your notes as needed.
-- Lastly, you can Google or look up the answers if desired.
-- Take 30 minutes total to do this activity. It's ok if you were not able to get to every question.
+- Tackle each discussion question one at a time, making sure **_everyone answers every question_**. 
+- Take 20 minutes to _discuss_ and _debate_ these questions as a group. We will review them as a class afterwards. 
 
 
 ## Discussion Questions
 
-* What is the difference between Git and Github?
+* What is Git? What are the benefits of using Git? 
 
-* How would you explain the benefits of using Git to someone?
+* How would you explain to a non-technical person what Git is?
 
-* Explain what remote and local means.
+* What is the purpose of GitHub?
 
-* Explain what the working directory is.
-
-* What is the difference between `git add` and `git commit`?
-
-* When would you use `git pull` and when would you use `git push`?
-
-* What is a Pull Request?
-
-* Explain the typical git flow of any feature. 
+* Explain the differences between Git and Github?
