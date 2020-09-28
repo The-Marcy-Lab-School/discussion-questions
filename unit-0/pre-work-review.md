@@ -12,4 +12,4 @@
 
 * Your company wants to use a data structure to keep track of alot of data. Under what circumstances would you recommend using an Array vs. an Object?
 
-* Your non-technical teammate has asked to to explain how to use `.slice()`. Read the MDN Documention on [.slice()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice). How would you explain it to your teammate?
+* Your non-technical teammate has asked you to explain how to use `.slice()`. Read the MDN Documention on [.slice()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice). How would you explain it to your teammate?
