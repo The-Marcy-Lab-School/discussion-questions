@@ -8,7 +8,7 @@
 
 ## Discussion Questions
 
-* When should you use a for loop instead of a while loop? When should you use a do while loop instead of a while loop?
+* When should you use a `for loop` instead of a `while loop`? When should you use a `do while loop` instead of a `while loop`?
 
 * Your company wants to use a data structure to keep track of alot of data. Under what circumstances would you recommend using an Array vs. an Object?
 
