@@ -16,9 +16,9 @@ Reading documentation is an important skill for any developer at any stage of le
 2. Skim the MDN Documention on [.search()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/search) for strings. 
     * What does this method do?
     * Explain how to use this method. 
-    * **How is it different from the `.includes()` method? **
+    * **How is it different from the `.includes()` method?**
     
 3. Skim the MDN Documention on [.slice()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/slice) for strings. 
     * What does this method do?
     * Explain how to use this method. 
-    * **How is it different from the `.search()` method? **
+    * **How is it different from the `.search()` method?**
