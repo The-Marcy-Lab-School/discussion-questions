@@ -2,7 +2,7 @@
 
 ## Directions
 - In an in-person class, have a group member hook up their laptop to a larger monitor. In a remote class, have a group member share their screen.
-- Tackle each discussion question one at a time, making sure **_everyone share their answer to every question_**. 
+- For each queestion, **_everyone should share their explantion, an example, or a mental model_**. 
 - Take 20 minutes to _discuss_ and _debate_ these questions as a group. We will review them as a class afterwards. 
 
 ## Questions.
