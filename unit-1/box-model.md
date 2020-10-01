@@ -9,7 +9,7 @@
 
 1. What are the four different parts of the box model and how does each change the layout of the HTML element on the page?
 
-2. What is the box-sizing property and how does the border-box value change the way width and height are calculated?
+2. What is the `box-sizing` property and how does the `border-box` value (`{box-sizing: border-box}`) change the way width and height are calculated?
 
 3. What are the three standard values of the display property and how do they differ?
 
