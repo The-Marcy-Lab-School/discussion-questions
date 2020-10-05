@@ -23,7 +23,7 @@ div #title .danger{
 
 2. Without changing the HTML snippet below: 
     * How would you select _only_ the list items of `Hello World` and `Good Morning World`?
-    * How would you select _only_ the list items of `Goodbye World`? 
+    * How would you select _only_ the list item of `Goodbye World`? 
 Reference [Pseudo-classes](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Pseudo-classes_and_pseudo-elements) if needed.
 
 ```html
