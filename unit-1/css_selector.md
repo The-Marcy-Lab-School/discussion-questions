@@ -7,7 +7,7 @@
 
 ## Questions
 
-1. Explain what HTML element(s) the following css selectors will select, and how will they change the styling? Reference (Combinators)[https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Combinators] if needed.
+1. Explain what HTML element(s) the following css selectors will select, and how will they change the styling? Reference [Combinators](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Combinators) if needed.
 
 ```css
 div#title.danger{
@@ -18,12 +18,13 @@ div#title.danger{
 ```css
 div #title .danger{
   color: red;
-}```
+}
+```
 
 2. Without changing the HTML snippet below: 
     * How would you select _only_ the list items of `Hello World` and `Good Morning World`?
     * How would you select _only_ the list items of `Goodbye World`? 
-Reference (Pseudo-classes)[https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Pseudo-classes_and_pseudo-elements] if needed.
+Reference [Pseudo-classes](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Pseudo-classes_and_pseudo-elements) if needed.
 
 ```html
 <div class="morning">
