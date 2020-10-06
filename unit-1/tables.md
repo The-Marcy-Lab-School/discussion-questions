@@ -7,5 +7,4 @@
 
 ## Questions
 * What is the structure of an HTML table? Be sure to include *at least* the tags `<thead>`, `<tbody>`, `<tfoot>`, and `<th>` in your explanation.
-* How do you allow cells to span multiple columns? Multiple rows?
 * How do we apply common styling to elements in the same column of our table?
