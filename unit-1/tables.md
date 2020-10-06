@@ -6,6 +6,6 @@
 - Take 20 minutes to _discuss_ and _debate_ these questions as a group. We will review them as a class afterwards. 
 
 ## Questions
-* What is the structure of an HTML table. Be sure to include *at least* the tags `<thead>`, `<tbody>`, `<tfoot>`, and `<th>` in your answer.
+* What is the structure of an HTML table? Be sure to include *at least* the tags `<thead>`, `<tbody>`, `<tfoot>`, and `<th>` in your explanation.
 * How do you allow cells to span multiple columns? Multiple rows?
 * How do we apply common styling to elements in the same column of our table?
