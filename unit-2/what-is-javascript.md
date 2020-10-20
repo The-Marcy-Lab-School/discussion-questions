@@ -1,4 +1,4 @@
-# Discussion Question - Flexbox
+# Discussion Question - JavaScript
 
 ## Directions
 - In an in-person class, have a group member hook up their laptop to a larger monitor. In a remote class, have a group member share their screen.
