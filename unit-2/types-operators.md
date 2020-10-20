@@ -7,6 +7,6 @@
 
 ## Questions
 
-* What are logical operators and what is their purpose?
 * What are the rules that JavaScript adheres to when coercing a value to a different type?
 * How can we avoid implicit type coercion and why might we want to do this?
+* What are logical operators and what is their purpose?
