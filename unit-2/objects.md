@@ -8,5 +8,5 @@
 ## Questions
 
 - What is an object and why are they useful?
-- How do we access properties and methods? When can we use dot notation and when must we use bracket notation?
 - What data types can be valid object property _keys_ in JavaScript? What about object property _values_?
+- How do we access properties and methods? When can we use dot notation and when must we use bracket notation?
